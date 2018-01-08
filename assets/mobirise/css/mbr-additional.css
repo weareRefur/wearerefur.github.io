@@ -1739,10 +1739,105 @@ body {
 .cid-qGa7QFHiBq .card {
   padding-bottom: 1.5rem;
 }
-.cid-qGakf4XeoP {
-  padding-top: 15px;
+.cid-qGaK6VjYDO {
+  padding-top: 30px;
   padding-bottom: 30px;
   background-color: #0f7699;
+}
+.cid-qGaK6VjYDO .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-qGaK6VjYDO .formoid {
+  margin: auto;
+}
+.cid-qGaK6VjYDO .form-control {
+  padding-left: 1.5rem;
+  padding-right: 1.5rem;
+}
+.cid-qGaK6VjYDO a.btn {
+  flex: 0 0 auto;
+  -webkit-flex: 0 0 auto;
+}
+.cid-qGaK6VjYDO .input-group-btn {
+  align-self: center;
+  -webkit-align-self: center;
+  z-index: 3;
+}
+.cid-qGaK6VjYDO .input-group-btn .btn {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  border-top-right-radius: 3px;
+  border-bottom-right-radius: 3px;
+}
+.cid-qGaK6VjYDO a:not([href]):not([tabindex]) {
+  color: #fff;
+}
+.cid-qGaK6VjYDO a.btn-white:not([href]):not([tabindex]) {
+  color: #333;
+}
+.cid-qGaK6VjYDO .mbr-subscribe .input-group-btn {
+  display: inline-block;
+}
+.cid-qGaK6VjYDO .mbr-subscribe .input-group-btn button,
+.cid-qGaK6VjYDO .mbr-subscribe .input-group-btn a {
+  margin-top: 0 !important;
+  margin-bottom: 0 !important;
+}
+@media (max-width: 350px) {
+  .cid-qGaK6VjYDO .mbr-subscribe {
+    flex-direction: column;
+    -webkit-flex-direction: column;
+  }
+  .cid-qGaK6VjYDO input[type="email"] {
+    width: 100%;
+    margin-bottom: 2px;
+  }
+  .cid-qGaK6VjYDO .input-group-btn {
+    width: 100%;
+  }
+  .cid-qGaK6VjYDO .input-group-btn .btn {
+    border-radius: 3px;
+  }
+}
+@media (max-width: 768px) {
+  .cid-qGaK6VjYDO .input-group-btn a.btn {
+    width: 100%;
+  }
+  .cid-qGaK6VjYDO .input-group-btn {
+    width: calc(92%);
+  }
+  .cid-qGaK6VjYDO .input-group-btn button[type="submit"] {
+    width: 100%;
+  }
+  .cid-qGaK6VjYDO .input-group {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    margin: auto;
+    max-width: 300px;
+  }
+  .cid-qGaK6VjYDO .input-group input[type="email"] {
+    width: 100%;
+    margin-bottom: 3px;
+  }
+  .cid-qGaK6VjYDO .input-group span {
+    display: inline;
+    padding-left: 0;
+    padding-right: 0;
+  }
+  .cid-qGaK6VjYDO .input-group-btn button,
+  .cid-qGaK6VjYDO .input-group-btn a {
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+  }
+}
+@media (min-width: 769px) {
+  .cid-qGaK6VjYDO .mbr-subscribe > * {
+    margin: 0 0.5rem;
+  }
+}
+.cid-qGaK6VjYDO H2 {
+  color: #ffffff;
 }
 .cid-qGa9avaRD2 {
   padding-top: 45px;
